@@ -1,2 +1,2 @@
 # bgp-session-monitor
-Simple BGP session monitoring tool
+Simple BGP session monitoring tool.
