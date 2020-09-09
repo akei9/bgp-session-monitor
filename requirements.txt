@@ -1,0 +1,4 @@
+netmiko==3.1.0
+Jinja2==2.11.2
+click==7.1.1
+pytest==6.0.1
